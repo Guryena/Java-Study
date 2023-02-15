@@ -7,10 +7,10 @@ public class Test {
 		b.buy(new Tv());
 		b.buy(new Computer());
 		b.buy(new Tv());
-//		b.buy(new Audio());
-//		b.buy(new Computer());
-//		b.buy(new Computer());
-//		b.buy(new Computer());
+		b.buy(new Audio());
+		b.buy(new Computer());
+		b.buy(new Computer());
+		b.buy(new Computer());
 		b.summary();
 	}
 	//[ ] 실행결과
