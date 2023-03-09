@@ -3,12 +3,12 @@ package UseVariable;
 public class UseVariable {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+System.out.println();
+		int num1; // ï¿½ï¿½ï¿½ï¿½ num1 ï¿½ï¿½ï¿½ï¿½
+		num1 = 10; // ï¿½ï¿½ï¿½ï¿½ num1ï¿½ï¿½ 10ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
-		int num1; // º¯¼ö num1 ¼±¾ð
-		num1 = 10; // º¯¼ö num1¿¡ 10À» ÀúÀå
-
-		int num2 = 20; // º¯¼ö num2¸¦ ¼±¾ð ÈÄ 20À» ÀúÀå
-		int num3 = num1 + num2; // µÎ º¯¼ö °ªÀ» ´ë»óÀ¸·Î ´õÇÑ ÈÄ º¯¼ö num3¿¡ ÀúÀå
+		int num2 = 20; // ï¿½ï¿½ï¿½ï¿½ num2ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ 20ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+		int num3 = num1 + num2; // ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ num3ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
 		System.out.println(num1);
 		System.out.println(num2);
